@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://user-images.githubusercontent.com/68249354/100056329-20747680-2deb-11eb-942b-208b2fa4baab.jpg)
+![ds-bs](https://user-images.githubusercontent.com/68249354/100144920-24d97780-2e5d-11eb-854a-17f955f7dccd.jpg)
 
 - 🔭 I’m currently being brought up to speed on Spark.
 - 🌱 I’m currently learning Distributed ML.
