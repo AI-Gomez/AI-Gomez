@@ -1,6 +1,6 @@
 ### Hi there 👋, take a look around and let me know if you have any feedback and/or suggestions.
 
-![image](https://github.com/AI-Gomez/AI-Gomez/files/5587725/ds-businesscard.pdf)
+![](https://user-images.githubusercontent.com/68249354/100056329-20747680-2deb-11eb-942b-208b2fa4baab.jpg)
 
 Here are some ideas to get you started:
 
