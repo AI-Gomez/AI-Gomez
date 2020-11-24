@@ -1,7 +1,6 @@
 ### Hi there 👋, take a look around and let me know if you have any feedback and/or suggestions.
 
-![](https://github.com/AI-Gomez/AI-Gomez/files/5587725/ds-businesscard.pdf)
-
+![image](https://github.com/AI-Gomez/AI-Gomez/files/5587725/ds-businesscard.pdf)
 
 Here are some ideas to get you started:
 
