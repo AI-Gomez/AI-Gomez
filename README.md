@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently being brought up to speed on Spark.
 - 🌱 I’m currently learning Distributed ML.
-- 👯 I’m looking to collaborate on A.I., Machine learning, Cryptocurrency, and anything else.
+- I’m looking to collaborate on A.I., Machine learning, Cryptocurrency, and anything else.
 - 📫 How to reach me: gomez.i.angel3@gmail.com
 
